@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetGP", "NetGP\NetGP.vcxproj", "{56E21DEE-53E7-4A22-8669-D18144D91ECA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetGP02", "NetGP02\NetGP02.vcxproj", "{82F0B970-7913-4127-94BA-70DF8F2AF17D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{56E21DEE-53E7-4A22-8669-D18144D91ECA}.Release|x64.Build.0 = Release|x64
 		{56E21DEE-53E7-4A22-8669-D18144D91ECA}.Release|x86.ActiveCfg = Release|Win32
 		{56E21DEE-53E7-4A22-8669-D18144D91ECA}.Release|x86.Build.0 = Release|Win32
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Debug|x64.ActiveCfg = Debug|x64
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Debug|x64.Build.0 = Debug|x64
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Debug|x86.ActiveCfg = Debug|Win32
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Debug|x86.Build.0 = Debug|Win32
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Release|x64.ActiveCfg = Release|x64
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Release|x64.Build.0 = Release|x64
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Release|x86.ActiveCfg = Release|Win32
+		{82F0B970-7913-4127-94BA-70DF8F2AF17D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
